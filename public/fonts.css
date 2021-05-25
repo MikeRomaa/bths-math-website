@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 200;
+    src: url('./fonts/FuturaNew-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 300;
+    src: url('./fonts/FuturaNew-Book.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 400;
+    src: url('./fonts/FuturaNew-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 600;
+    src: url('./fonts/FuturaNew-Demi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 700;
+    src: url('./fonts/FuturaNew-Heavy.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Futura New';
+    font-weight: 900;
+    src: url('./fonts/FuturaNew-ExtraBold.woff2') format('woff2');
+}
