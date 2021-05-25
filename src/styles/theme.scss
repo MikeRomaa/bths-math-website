@@ -78,7 +78,7 @@ a {
     border-bottom: 1px white solid;
 
     &:hover {
-        opacity: 75%;
+        opacity: 0.75;
     }
 }
 
@@ -124,7 +124,7 @@ section {
     z-index: 0;
     font-size: 300px;
     color: #FFB0CD;
-    opacity: 35%;
+    opacity: 0.35;
 }
 
 #header-date {
@@ -133,21 +133,21 @@ section {
 }
 
 #sierpinski-triangle {
-    opacity: 50%;
+    opacity: 0.5;
     position: absolute;
     width: 899px;
     height: 777px;
 }
 
 #prime-factors {
-    opacity: 50%;
+    opacity: 0.5;
     position: absolute;
     width: 921px;
     height: 921px;
 }
 
 #game-of-life {
-    opacity: 10%;
+    opacity: 0.1;
     position: absolute;
     width: 935px;
     height: 469px;
@@ -190,18 +190,18 @@ section {
     }
 
     #sierpinski-triangle {
-        opacity: 5%;
+        opacity: 0.05;
         top: -300px;
     }
 
     #prime-factors {
-        opacity: 5%;
+        opacity: 0.05;
         left: -100px;
         top: -700px;
     }
 
     #game-of-life {
-        opacity: 5%;
+        opacity: 0.05;
         top: -400px;
     }
 }

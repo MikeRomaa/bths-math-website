@@ -11,7 +11,7 @@ export default function Footer() {
                 </div>
                 <p className="font-sm text-white mb-0">&copy; 2021. All Rights Reserved</p>
                 <p className="font-sm font-w200 text-white mb-0">
-                    <a href="https://github.com/BTHS-Mu-Alpha-Theta/bths-mu-alpha-theta.github.io" target="_blank" rel="noreferrer" className="mr-2">
+                    <a href="https://github.com/MikeRomaa/bths-math-website" target="_blank" rel="noreferrer" className="mr-2">
                         Open source on <IoLogoGithub size={20} className="fill-white" viewBox="0 20 500 500"/>
                     </a>
                     <span className="mr-2">|</span>
